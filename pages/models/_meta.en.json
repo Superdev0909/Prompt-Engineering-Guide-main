@@ -1,0 +1,14 @@
+{
+    "chatgpt": "ChatGPT",
+    "code-llama": "Code Llama",
+    "flan": "Flan",
+    "gemini": "Gemini",
+    "gpt-4": "GPT-4",
+    "llama": "LLaMA",
+    "mistral-7b": "Mistral 7B",
+    "mixtral": "Mixtral",
+    "olmo": "OLMo",    
+    "phi-2": "Phi-2",
+    "collection": "LLM Collection" 
+}
+  
