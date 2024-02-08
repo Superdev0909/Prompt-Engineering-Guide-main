@@ -21,6 +21,6 @@ module.exports = withNextra({
       test: allowedSvgRegex,
       use: ['@svgr/webpack']
     })
-    return config
+    return config 
   }
 })
